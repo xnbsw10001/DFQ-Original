@@ -1,14 +1,14 @@
 # DFQ-Original
 
-DFQ-Original is an original of Dungeon & Fighter·Quest (DFQ), it's a coterie game of [DNF](http://dnf.qq.com).
+DFQ-Original is a basic version of Dungeon & Fighter·Quest (DFQ), it's a coterie game of [DNF](http://dnf.qq.com).
 
 ## Build
 
-DFQ made with [LÖVE(0.10.2)](http://love2d.org), you can [download it](https://bitbucket.org/rude/love/downloads/) and learn [how to run](http://love2d.org/wiki/Getting_Started).
+DFQ makes with [LÖVE(0.10.2)](http://love2d.org), you can [download it](https://bitbucket.org/rude/love/downloads/) and learn [how to run](http://love2d.org/wiki/Getting_Started).
 
 ## Code Standards
 
-DFQ's has own-style code standards, see below:
+DFQ has own-style code standards, see below:
 
 * Private variable: prefixed with `_` => `_a`
 * Function & Class: prefixed with capital letter => `Test()`
